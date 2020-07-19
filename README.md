@@ -1,7 +1,7 @@
 # Hi, I'm Francisco 🖖🏼
 
 <img src="https://github.com/franciscosvargas/franciscosvargas/blob/master/assets/banner.png?raw=true" alt="Francisco Vargas, FullStack Enginner, designer and content-creator">
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to help and elevate people, and building community. Some technologies I enjoy working with include ReactJS, ReactNative and NodeJS.
+I'm a fullstack engineer who is passionate about making open-source more accessible, creating technology to help and elevate people, and building community. Some technologies I enjoy working with include ReactJS, ReactNative and NodeJS.
 
 ### ✨&nbsp; Seeking knowledge all the time  
 My learning is based on creating projects and contributing to the open source community 
