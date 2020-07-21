@@ -16,4 +16,4 @@ My passion for programming is related to create incredible things and help peopl
 
 ## 🌎&nbsp; Find me around the web
 - Sharing updates on <a href="https://www.linkedin.com/in/franciscosvargas/">LinkedIn</a> 💼
-- Tinkering with interactions on <a href="https://twitter.com/falissonsv"> Twitter</a> 🏓
+- Tinkering with interactions on <a href="https://twitter.com/eaichico"> Twitter</a> 🏓
