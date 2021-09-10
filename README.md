@@ -9,7 +9,7 @@ My learning is based on creating projects and contributing to the open source co
 ### 💡&nbsp; Driven by shipping products that help people  
 My passion for programming is related to create incredible things and help people, doesn't matter the technology stack. 
 
-### 🔭&nbsp; Goals for 2020 
+### 🔭&nbsp; Goals for 2021
 - Start a channel on Youtube 
 - Contribute more on open-source projects
 - Improve my [GraphQL](https://graphql.org/) Knowledge 
