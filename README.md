@@ -9,10 +9,9 @@ My learning is based on creating projects and contributing to the open source co
 ### 💡&nbsp; Driven by shipping products that help people  
 My passion for programming is related to create incredible things and help people, doesn't matter the technology stack. 
 
-### 🔭&nbsp; Goals for 2021
+### 🔭&nbsp; Goals for 2022
 - Start a channel on Youtube 
 - Contribute more on open-source projects
-- Improve my [GraphQL](https://graphql.org/) Knowledge 
 
 ## 🌎&nbsp; Find me around the web
 - Sharing updates on <a href="https://www.linkedin.com/in/franciscosvargas/">LinkedIn</a> 💼
